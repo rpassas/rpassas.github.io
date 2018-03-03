@@ -1,0 +1,14 @@
+html, * {
+	box-sizing: border-box;
+}
+
+section{
+	  width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+    position:fixed;
+    top:0;
+    left:0;
+    background-color: orange;
+}
