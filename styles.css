@@ -13,3 +13,9 @@ section{
     left:0;
     background-color: orange;
 }
+
+h1{
+	display:inline;
+	position:relative;
+	left:200px;
+}
