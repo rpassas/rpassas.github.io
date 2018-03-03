@@ -4,7 +4,7 @@ html, * {
 
 section{
 	  width: 300px;
-    border: 25px solid green;
+    border: 0px;
     padding: 25px;
     margin: 25px;
     position:fixed;
