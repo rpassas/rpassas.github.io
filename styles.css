@@ -60,8 +60,9 @@ h3{
 	
 }
 
-.left{
+.left1{
 float:left;
+	position:relative;
 }
 
 nav{
