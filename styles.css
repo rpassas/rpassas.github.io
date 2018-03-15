@@ -54,7 +54,7 @@ html, * {
 
 h3{
 	display:inline;
-	position:relative;
+	position:fixed;
 	left:60px;
 	top:81px;
 	
